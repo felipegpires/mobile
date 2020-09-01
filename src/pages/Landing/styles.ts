@@ -10,7 +10,7 @@ const styles = StyleSheet.create({
 
   banner: {
     width: '100%',
-    resizeMode: 'contain',
+    resizeMode: 'cover',
   },
 });
 
